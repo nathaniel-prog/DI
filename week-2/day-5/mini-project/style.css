@@ -1,0 +1,35 @@
+.num {
+
+	 width:70px;
+        height:70px;
+        background-color: #20c997 ; 
+}
+
+
+
+.operator {
+
+
+	width:70px;
+    height:70px;
+    background-color: orange ; 
+}
+
+
+
+
+
+.clear {
+
+
+	width:140px;
+    height:70px;
+    background-color: red;  
+}
+
+.reset {
+width:140px;
+    height:70px;
+    background-color:#6610f2; ;  
+
+}
